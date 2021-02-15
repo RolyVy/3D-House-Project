@@ -30,6 +30,12 @@ And more .... https://en.wikipedia.org/wiki/Shapefile
 
 * **3D plot** :
 
+* **point clouds** :
+
+* **DSM** :
+
+* **DTM** :
+
 
 
 
