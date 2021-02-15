@@ -26,7 +26,7 @@ The project aim to **model houses from a single home address**
   * Be able to create a 3D model from point clouds
 
 It is for **insurrance business purposes** 
- > And There fore include informations for this sector purposes
+ > And Therefore include informations for this sector purposes
 
 Important points :
 
