@@ -33,7 +33,9 @@ Consolidate the knowledge in Python, specifically in :
 > We are LIDAR PLANES , active in the Geospatial industy. 
 
 We would like to ***use our data to launch a new branch in the insurrance business.***  
-So, we need you to ***build a solution with our data to model a house in 3D with only a home address.***
+
+So, we need you to ***build a solution with our data to :   
+                                                       model a house in 3D with only a home address.***
 
 
 ### Must-have features
