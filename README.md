@@ -1,6 +1,6 @@
 # 3D House Project
 
-> PATH TO DELIVERABLE : Go to Code/RasterIO/0.Automation.pynb
+> **PATH TO DELIVERABLE :** Go to Code/RasterIO/0.Automation.ipynb
 
 - Repository: `3D_houses`
 - Type of Challenge: `Learning & Consolidation`
