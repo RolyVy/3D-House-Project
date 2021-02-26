@@ -1,6 +1,7 @@
 # 3D House Project
 
 > **PATH TO DELIVERABLE :** Go to Code/RasterIO/0.Automation.ipynb
+> Remark : You may have to adapt the range for the raster file look-up (now set to 1-2)(ideal would be 1-43)
 
 - Repository: `3D_houses`
 - Type of Challenge: `Learning & Consolidation`
