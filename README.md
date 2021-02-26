@@ -1,5 +1,7 @@
 # 3D House Project
 
+> PATH TO DELIVERABLE : Go to Code/RasterIO/0.Automation.pynb
+
 - Repository: `3D_houses`
 - Type of Challenge: `Learning & Consolidation`
 - Duration: `2 weeks`
